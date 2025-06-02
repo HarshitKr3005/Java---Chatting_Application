@@ -26,6 +26,7 @@ Java---Chatting_Application/
 - ## 🛠️ Technologies Used
 
 - Java
+- AWT
 - Swing (GUI)
 - Socket Programming
 
